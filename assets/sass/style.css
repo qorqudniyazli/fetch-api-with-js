@@ -1,0 +1,33 @@
+header {
+  background-color: #E95420;
+}
+
+header a {
+  color: #fff !important;
+}
+
+header button {
+  color: #fff !important;
+}
+
+.hero {
+  width: 100%;
+  height: auto;
+}
+
+.hero h2 {
+  font-size: 2rem;
+}
+
+.hero p {
+  font-size: 1.25rem;
+}
+
+.hero button {
+  width: 80px;
+  height: 50px;
+  color: #fff;
+  background-color: #e95420;
+  border-color: #e95420;
+}
+/*# sourceMappingURL=style.css.map */
